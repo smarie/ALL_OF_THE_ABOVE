@@ -2,7 +2,8 @@
 This file is an attempt to give you an overview of what you can find in my github account.
 
  * [Python](#python)
- * [Java](#java)
+ * [Rapidminer](#rapidminer)
+ * [Java / OSGi](#java--osgi)
  * [Misc](#misc)
 
 ## Python
