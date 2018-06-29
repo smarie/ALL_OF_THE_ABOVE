@@ -14,6 +14,10 @@ This file is an attempt to give you an overview of what you can find in my githu
  * [valid8](https://smarie.github.io/python-valid8/) is a validation library with various entrypoints including function and class decorators
  * [autoclass](https://smarie.github.io/python-autoclass/) provides tools to write classes more easily. It is similar to `attrs` or *PEP557 data classes*
 
+### Persistence
+
+ * [yamlable](https://github.com/smarie/python-yamlable) is a thin wrapper of PyYaml to easily add the yaml capability to your classes
+
 ### Tests
 
  * [pytest-cases](https://smarie.github.io/python-pytest-cases) is a tool to separate test functions from test cases data
