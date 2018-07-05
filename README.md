@@ -16,7 +16,7 @@ This file is an attempt to give you an overview of what you can find in my githu
 
 ### Persistence
 
- * [yamlable](https://github.com/smarie/python-yamlable) is a thin wrapper of PyYaml to easily add the yaml capability to your classes
+ * [yamlable](https://smarie.github.io/python-yamlable/) is a thin wrapper of PyYaml to easily add the yaml capability to your classes
 
 ### Tests
 
