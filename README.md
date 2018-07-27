@@ -20,7 +20,8 @@ This file is an attempt to give you an overview of what you can find in my githu
 
 ### Tests
 
- * [pytest-cases](https://smarie.github.io/python-pytest-cases) is a tool to separate test functions from test cases data
+ * [pytest-steps](https://smarie.github.io/python-pytest-steps) helps you to create step-wise / incremental tests in `pytest`.
+ * [pytest-cases](https://smarie.github.io/python-pytest-cases) is a tool to separate test functions from test cases data in `pytest`.
 
 ### Misc / exotic
 
