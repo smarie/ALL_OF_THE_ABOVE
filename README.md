@@ -22,7 +22,8 @@ This file is an attempt to give you an overview of what you can find in my githu
 
  * [pytest-steps](https://smarie.github.io/python-pytest-steps) helps you to create step-wise / incremental tests in `pytest`.
  * [pytest-cases](https://smarie.github.io/python-pytest-cases) is a tool to separate test functions from test cases data in `pytest`.
- * [pytest-harvest](https://github.com/smarie/python-pytest-harvest) helps you collect fixtures and artifacts created during your `pytest` tests execution. Quite handy to create applicative benchmarks.
+ * [pytest-harvest](https://smarie.github.io/python-pytest-harvest/) helps you collect fixtures and artifacts created during your `pytest` tests execution. Quite handy to create applicative benchmarks.
+ * [pytest-patterns](https://smarie.github.io/pytest-patterns/) is not a library, but a repository of examples. In particular you will find here an example concerning how to create data science benchmarks.
 
 ### Misc / exotic
 
