@@ -1,4 +1,4 @@
-[![Avatar](https://sourcerer.io/assets/avatar/smarie)](https://sourcerer.io/smarie)
+[![Avatar](https://sourcerer.io/assets/avatar/smarie | width=15)](https://sourcerer.io/smarie)
 
 # OVERVIEW
 This file is an attempt to give you an overview of what you can find in my github account.
