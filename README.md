@@ -1,4 +1,4 @@
-[<img src="https://sourcerer.io/assets/avatar/smarie" width="50" height="50" />](https://sourcerer.io/smarie)
+[<img src="https://sourcerer.io/assets/avatar/smarie" width="70" height="70" />](https://sourcerer.io/smarie)
 
 # OVERVIEW
 This file is an attempt to give you an overview of what you can find in my github account.
