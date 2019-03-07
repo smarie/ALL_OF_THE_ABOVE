@@ -14,7 +14,7 @@ This file is an attempt to give you an overview of what you can find in my githu
 
  * [getversion](https://github.com/smarie/python-getversion/) is a library to get the version of a given package (work in progress)
  * [makefun](https://smarie.github.io/python-makefun) is a library to dynamically generate functions.
- * [decopatch](https://github.com/smarie/python-decopatch) is a tiny library to create decorators (work in progress)
+ * [decopatch](https://github.com/smarie/python-decopatch) makes it easy to write decorators.
  * [mini-lambda](https://smarie.github.io/python-mini-lambda) is a library to write simple lambda functions without `lambda x:` prefix and with string conversion capability. 
  * [valid8](https://smarie.github.io/python-valid8/) is a validation library with various entrypoints including function and class decorators
  * [autoclass](https://smarie.github.io/python-autoclass/) provides tools to write classes more easily. It is similar to `attrs` or *PEP557 data classes*
