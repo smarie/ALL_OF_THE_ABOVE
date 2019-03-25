@@ -8,6 +8,8 @@ This file is an attempt to give you an overview of what you can find in my githu
  * [Java / OSGi](#java--osgi)
  * [Misc](#misc)
 
+In addition, I try to contribute with code or features/issues to great open source projects out there, such as [scikit-learn](https://github.com/scikit-learn/scikit-learn), [pytest](https://github.com/pytest-dev/pytest), [pytest-profiling](https://github.com/manahl/pytest-plugins), [liblinear](https://github.com/cjlin1/liblinear) and [libsvm](https://github.com/cjlin1/libsvm), [pycharm](https://youtrack.jetbrains.com/issues)...
+
 ## Python
 
 ### Basics
