@@ -16,7 +16,7 @@ In addition, I try to contribute with code or features/issues to great open sour
 
  * [getversion](https://github.com/smarie/python-getversion/) is a library to get the version of a given package (work in progress)
  * [makefun](https://smarie.github.io/python-makefun) is a library to dynamically generate functions.
- * [decopatch](https://github.com/smarie/python-decopatch) makes it easy to write decorators.
+ * [decopatch](https://smarie.github.io/python-decopatch) makes it easy to write decorators.
  * [mini-lambda](https://smarie.github.io/python-mini-lambda) is a library to write simple lambda functions without `lambda x:` prefix and with string conversion capability. 
  * [valid8](https://smarie.github.io/python-valid8/) is a validation library with various entrypoints including function and class decorators
  * [autoclass](https://smarie.github.io/python-autoclass/) provides tools to write classes more easily. It is similar to `attrs` or *PEP557 data classes*
@@ -36,7 +36,7 @@ In addition, I try to contribute with code or features/issues to great open sour
 
  * [parsyfiles](https://smarie.github.io/python-parsyfiles) is a declarative parsing framework based on PEP484 type hints. One of my first python projects, please be tolerant ;)
  * [pyoad](https://smarie.github.io/python-object-as-daemon) is a tiny utility to launch a python object in a separate process, possibly using another python executable/environment.
- * [azml-client](https://github.com/smarie/python-azureml-client) is a client for web services deployed with Microsoft AzureML Studio.
+ * [azml-client](https://smarie.github.io/python-azureml-client) is a client for web services deployed with Microsoft AzureML Studio.
  * [PyQt5-minimal](https://github.com/smarie/PyQt5-minimal) is a minimal version of the PyQt5 GPL package, so that you do not end up with a 80Mo-large distribution when freezing your application with cx_Freeze, py2exe or others. 
 
 ## Rapidminer
