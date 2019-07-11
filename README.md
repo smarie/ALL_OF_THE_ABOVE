@@ -33,9 +33,9 @@ In addition, I try to contribute with code or features/issues to great open sour
  * [pytest-harvest](https://smarie.github.io/python-pytest-harvest/) helps you collect fixtures and artifacts created during your `pytest` tests execution. Quite handy to create applicative benchmarks.
  * [pytest-patterns](https://smarie.github.io/pytest-patterns/) is not a library, but a repository of examples. In particular you will find here an example concerning how to create data science benchmarks.
 
-### Parallel computing & Networking
+### Multiprocessing, Parallel computing & Networking
 
- * [spawner](https://smarie.github.io/python-spawner) is a utility to launch python code in a separate process, possibly using another python executable/environment.
+ * [spawny](https://smarie.github.io/python-spawny) is a utility to launch python code in a separate process, possibly using another python executable/environment.
  * [azml-client](https://smarie.github.io/python-azureml-client) is a client for web services deployed with Microsoft AzureML Studio.
 
 ### HMI
