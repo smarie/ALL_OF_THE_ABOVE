@@ -14,12 +14,16 @@ In addition, I try to contribute with code or features/issues to great open sour
 
 ### Basics
 
- * [getversion](https://github.com/smarie/python-getversion/) is a library to get the version of a given package (work in progress)
+ * [getversion](https://github.com/smarie/python-getversion/) is a library to get the version of any python package or module, reliably.
  * [makefun](https://smarie.github.io/python-makefun) is a library to dynamically generate functions.
  * [decopatch](https://smarie.github.io/python-decopatch) makes it easy to write decorators.
  * [mini-lambda](https://smarie.github.io/python-mini-lambda) is a library to write simple lambda functions without `lambda x:` prefix and with string conversion capability. 
  * [valid8](https://smarie.github.io/python-valid8/) is a validation library with various entrypoints including function and class decorators
  * [autoclass](https://smarie.github.io/python-autoclass/) provides tools to write classes more easily. It is similar to `attrs` or *PEP557 data classes*
+
+### Build tools
+
+ * [fprules](https://smarie.github.io/python-fprules) helps you create `make`-like file pattern rules easily, to be used for example in build tools such as `doit`.
 
 ### Persistence
 
