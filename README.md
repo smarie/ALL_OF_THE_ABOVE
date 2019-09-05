@@ -14,7 +14,7 @@ In addition, I try to contribute with code or features/issues to great open sour
 
 ### Developer's Basics
 
- * [getversion](https://github.com/smarie/python-getversion/) is a library to get the version of any python package or module, reliably.
+ * [getversion](https://smarie.github.io/python-getversion/) is a library to get the version of any python package or module, reliably.
  * [makefun](https://smarie.github.io/python-makefun) is a library to dynamically generate functions.
  * [decopatch](https://smarie.github.io/python-decopatch) makes it easy to write decorators.
 
@@ -41,8 +41,9 @@ In addition, I try to contribute with code or features/issues to great open sour
 
 ### Tests
 
- * [pytest-steps](https://smarie.github.io/python-pytest-steps) helps you to create step-wise / incremental tests in `pytest`.
+ * [pytest-pilot](https://smarie.github.io/python-pytest-pilot) (work in progress)
  * [pytest-cases](https://smarie.github.io/python-pytest-cases) is a tool to separate test functions from test cases data in `pytest`.
+ * [pytest-steps](https://smarie.github.io/python-pytest-steps) helps you to create step-wise / incremental tests in `pytest`.
  * [pytest-harvest](https://smarie.github.io/python-pytest-harvest/) helps you collect fixtures and artifacts created during your `pytest` tests execution. Quite handy to create applicative benchmarks.
  * [pytest-patterns](https://smarie.github.io/pytest-patterns/) is not a library, but a repository of examples. In particular you will find here an example concerning how to create data science benchmarks.
 
