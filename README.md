@@ -20,6 +20,7 @@ In addition, I try to contribute with code or features/issues to great open sour
 
 ### Object-Oriented
 
+ * [pyfields](https://smarie.github.io/python-pyfields/) helps you define fields in python classes, easily.
  * [mixture](https://smarie.github.io/python-mixture) provides a few interesting mixins for you to reuse (work in progress)
  * [autoclass](https://smarie.github.io/python-autoclass/) provides tools to write classes more easily. It is similar to `attrs` or *PEP557 data classes*
 
