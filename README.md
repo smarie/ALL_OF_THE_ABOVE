@@ -28,6 +28,7 @@ In addition, I try to contribute with code or features/issues to great open sour
 
  * [mini-lambda](https://smarie.github.io/python-mini-lambda) is a library to write simple lambda functions without `lambda x:` prefix and with string conversion capability. 
  * [valid8](https://smarie.github.io/python-valid8/) is a validation library with various entrypoints including function and class decorators
+ * [vtypes](https://smarie.github.io/python-vtypes/) allows you to create "validating types" able to validate both type and value with `isinstance`, in a simple and composable way.
  * [kopylog](https://smarie.github.io/python-kopylog/) (work in progress)
  
 ### Persistence
