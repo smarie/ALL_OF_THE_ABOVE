@@ -53,6 +53,7 @@ In addition, I try to contribute with code or features/issues to great open sour
 
  * [spawny](https://smarie.github.io/python-spawny) is a utility to launch python code in a separate process, possibly using another python executable/environment.
  * [azml-client](https://smarie.github.io/python-azureml-client) is a client for web services deployed with Microsoft AzureML Studio.
+ * [odsclient](https://smarie.github.io/python-odsclient/) is a client for OpenDataSoft API.
 
 ### HMI
 
