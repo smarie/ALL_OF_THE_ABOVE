@@ -61,6 +61,8 @@ In addition, I try to contribute with code or features/issues to great open sour
 
 ## Rapidminer
 
+This is **very old** stuff...
+
  * [octminer](https://github.com/smarie/java-octminer) is an extension for Rapidminer 5 to call octave scripts in a process
  * [matlab-miner]() is an extension for Rapidminer 5 to call matlab scripts in a process (available on demand)
  * RIP many other (10+) unpublished extensions for rapidminer 5: enrico, meteociel, unit tests, proxy tools, devtools, svn...
