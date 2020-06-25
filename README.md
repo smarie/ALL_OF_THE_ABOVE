@@ -8,7 +8,7 @@ This file is an attempt to give you an overview of what you can find in my githu
  * [Java / OSGi](#java--osgi)
  * [Misc](#misc)
 
-In addition, I try to contribute with code or features/issues to great open source projects out there, such as [decorator](https://github.com/smarie/decorator), [scikit-learn](https://github.com/scikit-learn/scikit-learn), [pytest](https://github.com/pytest-dev/pytest), [pytest-profiling](https://github.com/manahl/pytest-plugins), [liblinear](https://github.com/cjlin1/liblinear) and [libsvm](https://github.com/cjlin1/libsvm), [pycharm](https://youtrack.jetbrains.com/issues)...
+In addition, I try to contribute with code or features/issues to great open source projects out there, such as [nox](https://github.com/theacodes/nox), [decorator](https://github.com/smarie/decorator), [scikit-learn](https://github.com/scikit-learn/scikit-learn), [pytest](https://github.com/pytest-dev/pytest), [pytest-xdist](https://github.com/pytest-dev/pytest-xdist), [pytest-profiling](https://github.com/manahl/pytest-plugins), [attrs](https://github.com/python-attrs/attrs/), [requests-oauthlib](https://github.com/requests/requests-oauthlib), [enforce](https://github.com/RussBaz/enforce), [typing-inspect](https://github.com/ilevkivskyi/typing_inspect), [stdlib-list](https://github.com/jackmaney/python-stdlib-list), [funcsigs](https://github.com/testing-cabal/funcsigs), [liblinear](https://github.com/cjlin1/liblinear) and [libsvm](https://github.com/cjlin1/libsvm), [pycharm](https://youtrack.jetbrains.com/issues)...
 
 ## Python
 
