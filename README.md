@@ -59,6 +59,12 @@ In addition, I try to contribute with code or features/issues to great open sour
 
  * [PyQt5-minimal](https://github.com/smarie/PyQt5-minimal) is a minimal version of the PyQt5 GPL package, so that you do not end up with a 80Mo-large distribution when freezing your application with cx_Freeze, py2exe or others. 
 
+## Misc
+
+ * [Blync4CI](https://github.com/smarie/blync4CI) is an http daemon with a little REST interface to use blync lights for CI engines through an OpenWRT router
+ * [develop-behind-proxy](https://github.com/smarie/develop-behind-proxy) is a tutorial to help you configure your development environment if you are located behind a network proxy
+ * [envswitch](https://github.com/smarie/env-switcher-gui) is a tool to quickly change environment variables, able to save and restore profiles. It can be used for example to switch the environment variables for the network proxy (`http_proxy`, etc.), as explained in the develop-behind-proxy tutorial.
+
 ## Rapidminer
 
 This is **very old** stuff...
@@ -77,10 +83,3 @@ This is **very old** stuff...
  * [osgi-dpwsdriver](https://github.com/smarie/java-osgi-dpwsdriver) is a wrapper of *dpws4j* for OSGi, mapping devices to proxy OSGi services.
  * [ws-management4j](https://github.com/smarie/java-ws-management4j)
  * [wsman-osgi](https://github.com/smarie/java-wsman-osgi)
-
-## Misc
-
- * [Blync4CI](https://github.com/smarie/blync4CI) is an http daemon with a little REST interface to use blync lights for CI engines through an OpenWRT router
- * [develop-behind-proxy](https://github.com/smarie/develop-behind-proxy) is a tutorial to help you configure your development environment if you are located behind a network proxy
- * [envswitch](https://github.com/smarie/env-switcher-gui) is a tool to quickly change environment variables, able to save and restore profiles. It can be used for example to switch the environment variables for the network proxy (`http_proxy`, etc.), as explained in the develop-behind-proxy tutorial.
-
