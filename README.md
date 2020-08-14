@@ -43,7 +43,7 @@ In addition, I try to contribute with code or features/issues to great open sour
 
 ### Tests
 
- * [pytest-pilot](https://smarie.github.io/python-pytest-pilot) (work in progress)
+ * [pytest-pilot](https://smarie.github.io/python-pytest-pilot) Slice in your pytest test base thanks to powerful markers
  * [pytest-cases](https://smarie.github.io/python-pytest-cases) is a tool to separate test functions from test cases data in `pytest`.
  * [pytest-steps](https://smarie.github.io/python-pytest-steps) helps you to create step-wise / incremental tests in `pytest`.
  * [pytest-harvest](https://smarie.github.io/python-pytest-harvest/) helps you collect fixtures and artifacts created during your `pytest` tests execution. Quite handy to create applicative benchmarks.
