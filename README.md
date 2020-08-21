@@ -75,7 +75,7 @@ This is **very old** stuff...
 
 ## Java / OSGi
 
-This is **very old** stuff...
+This is **very old** stuff, hosted at [SOA4D](https://forge.soa4d.org/) but listed here for reference.
 
  * [soa4d-java-osgi-commons](https://github.com/smarie/java-soa4d-java-osgi-commons) common building blocks for java and OSGi projects, such as execution environments, adaptation of jsr support for embedded targets, etc. XML-related blocks sits in a separate project called "xml-java-osgi", below.
  * [xml-osgi](https://github.com/smarie/java-xml-osgi) a stack of packaged xml bundles for embedded OSGi 
