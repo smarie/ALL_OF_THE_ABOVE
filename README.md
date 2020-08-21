@@ -79,7 +79,7 @@ This is **very old** stuff...
 
  * [soa4d-java-osgi-commons](https://github.com/smarie/java-soa4d-java-osgi-commons) common building blocks for java and OSGi projects, such as execution environments, adaptation of jsr support for embedded targets, etc. XML-related blocks sits in a separate project called "xml-java-osgi", below.
  * [xml-osgi](https://github.com/smarie/java-xml-osgi) a stack of packaged xml bundles for embedded OSGi 
- * [dpws4j](https://github.com/smarie/java-dpws4j) is a devices profiles for web services (now web services for devices) implementation in java
+ * [dpws4j](https://github.com/smarie/java-dpws4j) is a devices profiles for web services (now web services for devices OASIS WS-DD) implementation in java
  * [osgi-dpwsdriver](https://github.com/smarie/java-osgi-dpwsdriver) is a wrapper of *dpws4j* for OSGi, mapping devices to proxy OSGi services.
  * [ws-management4j](https://github.com/smarie/java-ws-management4j)
  * [wsman-osgi](https://github.com/smarie/java-wsman-osgi)
