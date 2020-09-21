@@ -39,6 +39,7 @@ In addition, I try to contribute with code or features/issues to great open sour
 
 ### Build tools
 
+ * [doit-api](https://smarie.github.io/python-doit-api/) helps you use `doit` more easily and reliably thanks to a pythonic API.
  * [fprules](https://smarie.github.io/python-fprules) helps you create `make`-like file pattern rules easily, to be used for example in build tools such as `doit`.
 
 ### Tests
