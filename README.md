@@ -12,6 +12,10 @@ In addition, I try to contribute with code or features/issues to great open sour
 
 ## Python
 
+### Data Science
+
+ * [qdscreen](https://python-qds.github.io/qdscreen/), a library to detect quasi-determinism (a.k.a. functional dependencies) in datasets, for general purpose feature selection or to learn Bayesian Network Structures.
+
 ### Developer's Basics
 
  * [getversion](https://smarie.github.io/python-getversion/) is a library to get the version of any python package or module, reliably.
