@@ -1,4 +1,3 @@
-[<img src="https://sourcerer.io/assets/avatar/smarie" width="100" height="100" />](https://sourcerer.io/smarie)
 
 # OVERVIEW
 This file is an attempt to give you an overview of what you can find in my github account.
@@ -26,21 +25,21 @@ In addition, I try to contribute with code or features/issues to great open sour
 
  * [pyfields](https://smarie.github.io/python-pyfields/) helps you define fields in python classes, easily. It is similar to `attrs` or *PEP557 data classes* but provides a bit more flexibility.
  * [marshmallow-pyfields](https://smarie.github.io/python-marshmallow-pyfields/) brings `pyfields` to the famous `marshmallow` ORM.
- * [mixture](https://smarie.github.io/python-mixture) provides a few interesting mixins for you to reuse (work in progress)
  * [autoclass](https://smarie.github.io/python-autoclass/) provides tools to write classes more easily.
+ * (work in progress) [mixture](https://smarie.github.io/python-mixture) provides a few interesting mixins for you to reuse. (internal contents not yet published)
 
 ### Application tools
 
  * [mini-lambda](https://smarie.github.io/python-mini-lambda) is a library to write simple lambda functions without `lambda x:` prefix and with string conversion capability. 
  * [valid8](https://smarie.github.io/python-valid8/) is a validation library with various entrypoints including function and class decorators
  * [vtypes](https://smarie.github.io/python-vtypes/) allows you to create "validating types" able to validate both type and value with `isinstance`, in a simple and composable way.
- * [kopylog](https://smarie.github.io/python-kopylog/) (work in progress)
+ * (work in progress) [kopylog](https://smarie.github.io/python-kopylog/) a tool to store execution information easily alongside your main process/algorithm. (internal contents not yet published)
  
 ### Persistence
 
- * [jsoners]() (work in progress)
  * [yamlable](https://smarie.github.io/python-yamlable/) is a thin wrapper of PyYaml to easily add the yaml capability to your classes
  * [parsyfiles](https://smarie.github.io/python-parsyfiles) is a declarative parsing framework based on PEP484 type hints. One of my first python projects, please be tolerant ;)
+ * (work in progress) [jsoners]() publication of an internal json serializer able to handle multiple-versions of the libraries used properly. (internal contents not yet published)
 
 ### Build tools
 
