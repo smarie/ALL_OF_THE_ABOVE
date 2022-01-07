@@ -66,6 +66,7 @@ In addition, I try to contribute with code or features/issues to great open sour
 
 ## Misc
 
+ * [mkdocs-gallery](https://smarie.github.io/mkdocs-gallery) is a port of sphinx-gallery for mkdocs
  * [genbadge](https://smarie.github.io/python-genbadge/) is a commandline tool to generate badges for tests, coverage and qualimetry
  * [Blync4CI](https://github.com/smarie/blync4CI) is an http daemon with a little REST interface to use blync lights for CI engines through an OpenWRT router
  * [develop-behind-proxy](https://github.com/smarie/develop-behind-proxy) is a tutorial to help you configure your development environment if you are located behind a network proxy
